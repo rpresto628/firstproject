@@ -1,0 +1,100 @@
+/* This is with position property */
+
+/* .contact-section{
+    height:700px;
+    width:100%;
+    background-color:rgba(71,131,183,.5);
+    margin-top:200px;
+    position: relative;
+}
+.contact-box{
+    height: 690px;
+    width: 45%;
+    border:3px solid blue;
+    position: absolute;
+    margin-left: 30px;
+    margin-top:20px;
+}
+.contact-header{
+    height:700px;
+    width:300px;
+    top:130px;
+    left:42%;
+
+}
+.contact-header h2{
+    font-family:'IM Fell English SC display swap', serif;
+    font-weight:600;
+    text-align:center;
+}
+/* .contact-section{ */
+    /* height:700px;
+    width:100%;
+    background-color:rgba(71,131,183,.5);
+    margin-top:200px;
+    position: relative;
+}
+.contact-box{
+    height: 700px;
+    width: 45%;
+    border:3px solid blue;
+    position: absolute;
+ .contact-section{
+    height:700px;
+    width:100%;
+    background-color:rgba(71,131,183,.5);
+    margin-top:200px;
+    position: relative;
+}
+.contact-box{
+    height: 700px;
+    width: 45%;
+    border:3px solid blue;
+    position: absolute;
+    
+/* } */ 
+/* .map{
+    left:70px;
+    text-align: center;
+}
+.form{
+    right:70px;
+    text-align: center;
+} */
+.contact-section {
+    height: 900px;
+    width: 100%;
+    background-color:rgba(71,131,183,.5);
+    margin-top: 200px;
+    position: relative;
+ }
+ .contact-header {
+    font-family:'IM Fell English', serif;
+    font-weight: 600;
+    text-align: center;
+    top: 130px;
+    border:3px solid black;
+    text-shadow: white;
+    width:33%;
+    background-color:red;
+    margin: 0 auto;
+ }
+ .contact-box {
+    height: 700px;
+    width: 45%;
+    border: 3px solid blue;
+    /* float:left;
+    margin-left: 55px; */
+    position: absolute;
+    /* top: 30px; */
+    margin-top:40px;
+    background-color:#07ac84;
+ }
+ .map {
+    left: 70px;
+    text-align: center;
+ }
+ .form {
+    right: 70px;
+    text-align: center;
+ }

@@ -1,0 +1,126 @@
+body{
+    margin: 0 auto;
+    font-family: 'IM Fell English', serif;
+}
+.nav-bar{
+    background-color:rgba(71,131,183,.5);
+    height: 80px;
+    width: 100%;
+    color: #fff;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+.logo{
+    height: 50px;
+    width:70px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.nav-list{
+    float: right;
+    margin-right: 20px;
+    margin-top: 50px;
+    border:solid red 3px;
+    margin: 0 auto;
+    text-align: center;
+}
+.nav-list a{
+    text-decoration: none;
+}
+.list-item{
+    display: inline;
+    padding-right: 25px;
+    color: white;
+}
+.main{
+    height: 700px;
+    width: 100%;
+    background-image: url(../img/Bebop-770x433.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;
+    margin-top: 80px;
+    position: relative;
+    /* margin-top: 80px; */
+}
+.main-box{
+    height: 100px;
+    width:300px;
+    position: absolute;
+    top:250px;
+    left: 40%;
+    background-color:blue;
+    border: blue;
+    box-shadow:-6px -6px white;
+}
+.main-text{
+    color:white;
+text-align: center;
+text-shadow: 3px 3px black;
+
+}
+.section{
+    width: 100%;
+    height: 600px;
+    margin-top: 30px;
+    /* position: relative; */
+}
+/* .section-img{
+position: absolute;
+top: 25px;
+left: 25px;
+height: 600px;
+width: 50%;
+}
+.section-p{
+position: absolute;
+top: 25px;
+right: 25px;
+height: 550px;
+width: 50%;
+}
+.faye-img, .section-p p{
+    height: 500px;
+    width: 500px;
+} */
+.section-img, .section-p{
+    height: 550px;
+    width:47%;
+    border: solid 3px blue;
+    float: left;
+    margin-left: 33px;
+}
+.faye-img{
+    height: 500px;
+    width: 95%;
+    padding: 25px;
+}
+.section-p p{
+    padding: 25px;
+}
+.footer{
+    /* background-color:rgb(47,99,177); */
+    background-color: rgb(119,149,211);
+    height: 70px;
+    width: 100%;
+    padding: 15px;
+}
+.footer div{
+    width: 33%;
+    float: left;
+}
+.footer-input input, .footer-input button{
+    display: inline-block;
+}
+.footer-input input{
+    width: 300px;
+    height:30px;
+}
+.footer-input button{
+    height: 30px;
+    width: 70px;
+}
+.fab{
+    font-size:2em; 
+    color: white;
+}
