@@ -64,7 +64,7 @@
 .contact-section {
     height: 900px;
     width: 100%;
-    background-color:rgba(71,131,183,.5);
+    /* background-color:rgba(71,131,183,.5); */
     margin-top: 200px;
     position: relative;
  }
@@ -88,7 +88,7 @@
     position: absolute;
     /* top: 30px; */
     margin-top:40px;
-    background-color:#07ac84;
+    background-color:white;
  }
  .map {
     left: 70px;
