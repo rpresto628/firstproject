@@ -3,7 +3,8 @@ body{
     font-family: 'IM Fell English', serif;
 }
 .nav-bar{
-    background-color:rgba(71,131,183,.5);
+    background-color:rgb(23,66,56);
+    /* background-color:#272946; */
     height: 80px;
     width: 100%;
     color: #fff;
@@ -21,7 +22,7 @@ body{
     float: right;
     margin-right: 20px;
     margin-top: 50px;
-    border:solid red 3px;
+    border:solid white 3px;
     margin: 0 auto;
     text-align: center;
 }
@@ -49,7 +50,7 @@ body{
     position: absolute;
     top:250px;
     left: 40%;
-    background-color:blue;
+    background-color:rgb(205,107,46);
     border: blue;
     box-shadow:-6px -6px white;
 }
@@ -86,7 +87,7 @@ width: 50%;
 .section-img, .section-p{
     height: 550px;
     width:47%;
-    border: solid 3px blue;
+    border: solid 3px rgb(205,107,46);
     float: left;
     margin-left: 33px;
 }
@@ -100,7 +101,7 @@ width: 50%;
 }
 .footer{
     /* background-color:rgb(47,99,177); */
-    background-color: rgb(119,149,211);
+    background-color: rgb(23,66,56);
     height: 70px;
     width: 100%;
     padding: 15px;

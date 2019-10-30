@@ -62,7 +62,7 @@
     text-align: center;
 } */
 .contact-section {
-    height: 900px;
+    height: 950px;
     width: 100%;
     /* background-color:rgba(71,131,183,.5); */
     margin-top: 200px;
@@ -73,21 +73,21 @@
     font-weight: 600;
     text-align: center;
     top: 130px;
-    border:3px solid black;
     text-shadow: white;
     width:33%;
-    background-color:red;
+    background-color:rgb(205,107,46);
     margin: 0 auto;
+    box-shadow: -10px -10px rgb(23,66,56);
  }
  .contact-box {
     height: 700px;
     width: 45%;
-    border: 3px solid blue;
+    border: 3px solid rgb(205,107,46);
     /* float:left;
     margin-left: 55px; */
     position: absolute;
     /* top: 30px; */
-    margin-top:40px;
+    margin-top:80px;
     background-color:white;
  }
  .map {
